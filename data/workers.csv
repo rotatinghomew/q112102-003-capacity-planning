@@ -1,5 +1,0 @@
-worker_ref,skill,available_from,available_to,grid_ref
-W-1,visit,2026-02-01-AM,2026-02-01-PM,G-1
-W-2,escort,2026-02-01-PM,2026-02-01-PM,G-1
-W-3,visit,2026-02-01-AM,2026-02-01-AM,G-2
-W-4,phone,2026-02-02-AM,2026-02-02-AM,G-3

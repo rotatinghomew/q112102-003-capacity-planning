@@ -1,0 +1,8 @@
+worker,skill,state,date
+w1,照护,valid,2026-06-01
+w1,陪同,valid,2026-06-01
+w2,驾驶,valid,2026-06-01
+w3,陪同,valid,2026-06-01
+w4,照护,valid,2026-06-01
+w5,驾驶,valid,2026-06-01
+w6,陪同,valid,2026-06-01

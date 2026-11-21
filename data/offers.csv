@@ -1,0 +1,7 @@
+scenario,worker,date,start,end,home
+base,w1,2026-06-08,530,715,A
+base,w2,2026-06-08,530,700,A
+base,w3,2026-06-08,560,735,B
+base,w4,2026-06-08,570,715,B
+driver,w5,2026-06-08,565,695,B
+escort,w6,2026-06-08,565,735,A

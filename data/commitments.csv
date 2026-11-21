@@ -1,3 +1,4 @@
-commitment_id,demand_id,worker_ref,accepted_at,state
-C-1,D-1,W-1,2026-01-30T12:00:00,accepted
-C-2,D-3,W-3,2026-01-30T12:10:00,accepted
+id,demand,leg,worker,role,start,end,accepted_at
+C1,d2,1,w1,照护,590,630,2026-06-06T08:00
+C2,d3,1,w3,陪同,610,640,2026-06-06T08:30
+C3,d3,1,w2,驾驶,610,640,2026-06-06T10:15

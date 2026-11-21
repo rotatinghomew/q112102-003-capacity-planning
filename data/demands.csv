@@ -1,0 +1,7 @@
+id,village,site,date,start,end,urgency,verified
+d1,河东,A,2026-06-08,540,660,critical,1
+d2,河东,A,2026-06-08,575,670,normal,1
+d3,桥西,B,2026-06-08,575,655,critical,1
+d4,桥西,B,2026-06-08,540,600,critical,0
+d5,桥西,B,2026-06-08,620,700,normal,1
+d6,河东,A,2026-06-08,630,690,normal,1
