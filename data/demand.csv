@@ -1,0 +1,5 @@
+demand_id,grid_ref,service_code,requested_slot,urgency,confidence
+D-1,G-1,visit,2026-02-01-AM,high,confirmed
+D-2,G-1,escort,2026-02-01-PM,medium,reported
+D-3,G-2,visit,2026-02-01-AM,high,confirmed
+D-4,G-3,phone,2026-02-02-AM,low,estimated
